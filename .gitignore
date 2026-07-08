@@ -1,0 +1,15 @@
+# vscode
+.vscode
+
+# C
+*.dSYM
+main
+
+# MAC
+.DS_Store
+
+# python
+__pycache__/
+
+# Learning
+Learning/
